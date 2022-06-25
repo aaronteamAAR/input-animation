@@ -35,3 +35,6 @@
     background-color: #242329;
 }
 
+.input:is(:focus, :vaild){
+    outline-color: #d1c5fc;
+}
